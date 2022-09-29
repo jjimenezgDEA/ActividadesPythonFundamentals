@@ -1,0 +1,13 @@
+Algoritmo para leer sin distracciones.
+
+1. Toma el celular
+2. Desbloquea el celular
+3. Activa el modo "No Molestar"
+4. Abre la aplicación de libros
+5. Abre el audiolibro que deseas leer
+6. Pausa la reporducción
+7. Abre el libro electrónico correspondiente al audiolibro seleccionado
+8. Conecta los audífonos
+9. Ponte los audífonos
+10. Inicia la reproducción del audiolibro
+11. Lee
